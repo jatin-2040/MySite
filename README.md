@@ -20,5 +20,3 @@ I AM BATMAN
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
 <p style="font-family: Georgia, serif; font-size: 50px; color: #2c3e50;">
 If you do shit you will meet me!
-</p>
-<p style="font-family: Georgia, serif; text-align: center; color: #34495e;">Thanks for visiting!</p>
