@@ -1,12 +1,13 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Jatin Nayyar</h1>
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+
+![Batman-Logo](https://github.com/user-attachments/assets/814bab64-ff20-4ef2-8ad3-e6801f09d0e7)
 
 
-<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
 
+<p style="font-family: Georgia, serif; font-size: 25px; color: #2c3e50;">
+I AM BATMAN
 </p>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
@@ -19,8 +20,7 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>I'm a night owl 🌙</li>
-  <li>Podcasts = relaxation 🎧</li>
-  <li>I'm obsessed with VR/AR tech 🌐</li>
+
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
